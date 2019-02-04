@@ -1,0 +1,37 @@
+﻿  Lab1_AVP.cpp
+  Создание кода
+  
+  --- Анализ функции: float __cdecl count_out(float * __ptr64 * __ptr64,float * __ptr64 * __ptr64,int,int)
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(17) : info C5002: цикл не векторизирован по следующей причине: "1105"
+  
+  --- Анализ функции: main
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(62) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(66) : info C5002: цикл не векторизирован по следующей причине: "1303"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(57) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(75) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(72) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(51) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(45) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(17) : info C5002: цикл не векторизирован по следующей причине: "1105"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(94) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(92) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(90) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(88) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(86) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(84) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(17) : info C5002: цикл не векторизирован по следующей причине: "1105"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(119) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(117) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(115) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(113) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(111) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(109) : info C5002: цикл не векторизирован по следующей причине: "1400"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(162) : info C5002: цикл не векторизирован по следующей причине: "1200"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(160) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(158) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(156) : info C5002: цикл не векторизирован по следующей причине: "1106"
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab1_AVP.vcxproj -> D:\Nick\Nick_Documents\Visual_Studio\Lab1_AVP\x64\Release\Lab1_AVP.exe
