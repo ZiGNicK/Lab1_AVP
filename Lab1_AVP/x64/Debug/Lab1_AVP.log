@@ -1,2 +1,6 @@
 ﻿  Lab1_AVP.cpp
+d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(25): warning C4101: tempVectorB: неиспользованная локальная переменная
+d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(182): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\nick\nick_documents\visual_studio\lab1_avp\lab1_avp\lab1_avp.cpp(183): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Lab1_AVP.vcxproj -> D:\Nick\Nick_Documents\Visual_Studio\Lab1_AVP\x64\Debug\Lab1_AVP.exe
